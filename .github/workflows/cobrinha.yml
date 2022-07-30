@@ -23,6 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-0 comments on commit 0c38c9a
-@andydevbarbosa
- 
