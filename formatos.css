@@ -1,0 +1,66 @@
+.logo {
+    width: 200px;
+    height: 200px;
+}
+
+.menu {
+    position: absolute;
+    margin-right: auto;
+    top: 10px;
+    left: 10px;
+}
+.main-content {
+    flex: 1;
+}
+
+header {
+    display: flex;
+    align-items: baseline;
+    color: white;
+    background-color: #333;
+    padding: 16px;
+}
+nav {
+    background-color: orange;
+    padding: 10px;
+}
+main {
+    background-color: orange;
+    padding: 120px;
+}
+footer {
+    background-color: black;
+    padding: 5px;
+}
+
+main, footer {
+    text-align: center;
+    color: white;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    overflow: auto;
+    height: calc(100vh - 60px);
+        
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
