@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="receitas.css">
+    <title>Catálogo de Receitas</title>
+    <link href="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .bg-warning{
+            background-color: #ffc107 !important;
+        }
+        .card{
+            width: 250px;
+        }
+    </style>
+</head>
+<body onload="preencherCatalogo()">
+    <div class="container-fluid bg-warning">
+        <div class="d-flex flex-wrap" id="pnlCatalogo">
+        <h1>Catálogo de Receitas</h1>
+        <main>
+        <div id="receita1" class="receita">
+            <h2>Croutons de Frigideira</h2>
+            <img src="https://f.i.uol.com.br/folha/comida/images/11271579.jpeg" alt="Croutons de Frigideira">
+            <h3>Ingredientes:</h3>
+            <ul>
+                <li>Pão Amanhecido</li>
+                <li>Azeite</li>
+                <li>Sal à gosto</li>
+                <hr>
+            </ul>
+            <h3>Modo de Preparo:</h3>
+            <ol>
+                <li>Aqueça uma frigideira anti-aderente.</li>
+                <li>Regue com 2 colheres de azeite.</li>
+                <li>Acrescente os pães em cubo.</li>
+                <li>Tempera com sal à gosto.</li>
+                <li>Mantenha no fogo médio por 5 minutos.</li>
+                <!-- Adicione mais passos conforme necessário -->
+            </ol>
+        </div>
+
+        <div id="receita2" class="receita">
+            <h2>Macarrão com Queijo</h2>
+            <img src="https://catracalivre.com.br/wp-content/uploads/2021/10/img-7679.jpg" alt="Macarrão com Queijo">
+            <h3>Ingredientes:</h3>
+            <ul>
+                <li>Leite</li>
+                <li>Macarrão</li>
+                <li>Queijo Cheddar</li>
+                <hr>
+                <!-- Adicione mais ingredientes conforme necessário -->
+            </ul>
+            <h3>Modo de Preparo:</h3>
+            <ol>
+                <li>Em uma panela média, ferva por 20 minutos o leite e o macarrão em fogo médio (mexa sempre para evitar que o leite derrame).</li>
+                <li>Tire a panela do fogo e adicione o queijo.</li>
+                <li>Mexa até o queijo derreter e adicione sal a gosto.</li>
+                <!-- Adicione mais passos conforme necessário -->
+            </ol>
+        </div>
+
+        <div id="receita3" class="receita">
+            <h2>Brigadeiro de Colher</h2>
+            <img src="https://receitinhas.com.br/wp-content/uploads/2022/04/Brigadeiro-de-Colher-Imagem-por-Panelinha-1200x798.jpg" alt="Brigadeiro de Colher">
+            <h3>Ingredientes:</h3>
+            <ul>
+                <li>Leite Condensado</li>
+                <li>Chocolate 50%</li>
+                <li>Manteiga</li>
+                <li>Creme de leite Fresco</li>
+                <hr>
+                <!-- Adicione mais ingredientes conforme necessário -->
+            </ul>
+            <h3>Modo de Preparo:</h3>
+            <ol>
+                <li>Coloque todos os ingredientes, exceto o creme de leite, na panela e cozinhe até desgrudar do fundo.</li>
+                <li>Quando chegar no ponto, desligue o fogo, adicione o creme de leite e mexa até quase esfriar.</li>
+                <li>Coloque nos potinhos, finalize com granulado (opcional) e sirva. </li>
+                <!-- Adicione mais passos conforme necessário -->
+            </ol>
+        </div>
+        </main>
+    <script>
+        function getListaIngredientes(receita) {
+        return `<ul>${receita.ingredientes.map(ingrediente => `<li>${ingrediente}</li>`).reduce((a, b) => a + b, '')}</ul>`;
+            }
+
+        function getCard(receita) {
+        return `
+            <div class="card">
+            <img src="${receita.imagem}" class="card-img-top" alt="${receita.titulo}">
+            <div class="card-body">
+                <h5 class="card-title">${receita.titulo}</h5>
+                <div class="card-text">
+                ${getListaIngredientes(receita)}
+                <hr>
+                <p>${receita.preparo}</p>
+                </div>
+                </div>
+            </div>
+                `;
+            }
+
+        function preencheCatalogo() {
+        const pnlCatalogo = document.getElementById('pnlCatalogo');
+        const cardsHTML = receitas.map(receita => getCard(receita)).join('');
+        pnlCatalogo.innerHTML = cardsHTML;
+            }
+    </script>
+                
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>   
+      
+</body>
+</html>
