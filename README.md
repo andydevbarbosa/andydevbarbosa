@@ -1,55 +1,81 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Anderson+Barbosa;Desenvolvedor+Front-End;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+GitHub)
+# 👋 Olá, eu sou Anderson Barbosa
 
-👨‍💻 Anderson Barbosa
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-End;Apaixonado+por+Tecnologia;Estudante+de+Desenvolvimento+de+Sistemas;Bem-vindo+ao+meu+GitHub)
 
-💻 Estudante de Desenvolvimento de Sistemas
-🚀 Apaixonado por tecnologia, programação e desenvolvimento web
+---
 
-Atualmente focado em Front-End Development, criando projetos utilizando HTML, CSS e JavaScript, com objetivo de evoluir constantemente e atuar profissionalmente na área de tecnologia.
+## 🚀 Sobre mim
 
-🚀 Tecnologias e Ferramentas
-<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="40"/> <img src="https://skillicons.dev/icons?i=css" height="40"/> <img src="https://skillicons.dev/icons?i=javascript" height="40"/> <img src="https://skillicons.dev/icons?i=git" height="40"/> <img src="https://skillicons.dev/icons?i=github" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" height="40"/> </p>
+💻 Estudante de **Desenvolvimento de Sistemas**  
+📚 Focado em **Front-End Development**  
+🚀 Apaixonado por tecnologia e programação  
+🎯 Buscando evoluir constantemente como desenvolvedor  
 
+---
 
-🚀 Projetos em Destaque
+## 🛠 Tecnologias e Ferramentas
 
-🍄 Mario Jump
-Mini game inspirado em Mario desenvolvido com HTML, CSS e JavaScript.
+<p align="left">
 
-📱 Menu Responsivo
-Menu adaptável para mobile e desktop utilizando JavaScript e CSS responsivo.
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
 
-✅ Lista de Tarefas (To-Do List)
-Aplicação para gerenciamento de tarefas com manipulação de DOM em JavaScript.
+</p>
 
-🔎 Pokedex
-Aplicação que consome API de Pokémon e exibe informações dos personagens.
+---
 
+## 🚀 Projetos em Destaque
 
-📚 Atualmente estudando
+🍄 **Mario Jump**  
+Jogo inspirado no Mario desenvolvido com **HTML, CSS e JavaScript**
 
-JavaScript avançado
+📱 **Menu Responsivo**  
+Componente de navegação adaptável para dispositivos móveis
 
-Estrutura de dados
+✅ **Lista de Tarefas**  
+Aplicação de gerenciamento de tarefas com **JavaScript e manipulação de DOM**
 
-APIs REST
+🔎 **Pokedex**  
+Projeto consumindo **API de Pokémon** com JavaScript
 
-Desenvolvimento Front-End
+---
 
-Boas práticas de programação
+## 📊 Estatísticas do GitHub
 
-🎯 Objetivo
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andydevbarbosa&show_icons=true&theme=tokyonight)
 
-Meu objetivo é evoluir como Desenvolvedor Web, adquirindo experiência em projetos reais e contribuindo com soluções tecnológicas que gerem impacto positivo.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andydevbarbosa&layout=compact&theme=tokyonight)
 
-Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades em programação.
+![GitHub Streak](https://streak-stats.demolab.com/?user=andydevbarbosa&theme=tokyonight)
 
-📫 Contato
-<p align="left"> <a href="https://www.linkedin.com/in/anderson-barbosa-almeida-450198167/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:andbaralmeida@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-⚡ Curiosidade
+---
 
-Além de programação, gosto de aprender sobre tecnologia, resolver problemas com código e desenvolver projetos que ajudem a aprimorar minhas habilidades como desenvolvedor.
-
-⭐ Se gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios!
+## 🐍 Contribuições
 
 ![snake](https://raw.githubusercontent.com/andydevbarbosa/andydevbarbosa/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contato
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/anderson-barbosa-almeida-450198167/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:andbaralmeida@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</a>
+
+</p>
+
+---
+
+⭐ Se gostou dos meus projetos, não esqueça de **dar uma estrela nos repositórios**!
