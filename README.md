@@ -1,28 +1,54 @@
- Bem-vindo(a) ao perfil do Andy Barbosa 😁
+ Anderson, vou montar um README de perfil completo estilo profissional para seu perfil no GitHub. Esse tipo de README é muito usado por desenvolvedores para portfólio e recrutadores 👨‍💻🚀
 
- <div>
-   <a href="https://github.com/andydevbarbosa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andydevbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydevbarbosa&layout=compact&langs_count=6&theme=tokyonight"/>
+Você pode copiar tudo abaixo e colocar no README do seu perfil.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+👨‍💻 Anderson Barbosa
 
- <br>
+💻 Estudante de Desenvolvimento de Sistemas
+🚀 Apaixonado por tecnologia, programação e desenvolvimento web
 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+Atualmente focado em Front-End Development, criando projetos utilizando HTML, CSS e JavaScript, com objetivo de evoluir constantemente e atuar profissionalmente na área de tecnologia.
 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+🚀 Tecnologias e Ferramentas
+<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="40"/> <img src="https://skillicons.dev/icons?i=css" height="40"/> <img src="https://skillicons.dev/icons?i=javascript" height="40"/> <img src="https://skillicons.dev/icons?i=git" height="40"/> <img src="https://skillicons.dev/icons?i=github" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" height="40"/> </p>
+📊 Estatísticas do GitHub
 
-  ![Snake animation](https://github.com/andydevbarbosa/andydevbarbosa/blob/output/github-contribution-grid-snake.svg)
+🚀 Projetos em Destaque
 
-</div>
+🍄 Mario Jump
+Mini game inspirado em Mario desenvolvido com HTML, CSS e JavaScript.
+
+📱 Menu Responsivo
+Menu adaptável para mobile e desktop utilizando JavaScript e CSS responsivo.
+
+✅ Lista de Tarefas (To-Do List)
+Aplicação para gerenciamento de tarefas com manipulação de DOM em JavaScript.
+
+🔎 Pokedex
+Aplicação que consome API de Pokémon e exibe informações dos personagens.
+
+📚 Atualmente estudando
+
+JavaScript avançado
+
+Estrutura de dados
+
+APIs REST
+
+Desenvolvimento Front-End
+
+Boas práticas de programação
+
+🎯 Objetivo
+
+Meu objetivo é evoluir como Desenvolvedor Web, adquirindo experiência em projetos reais e contribuindo com soluções tecnológicas que gerem impacto positivo.
+
+Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades em programação.
+
+📫 Contato
+<p align="left"> <a href="https://www.linkedin.com/in/anderson-barbosa-almeida-450198167/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:andbaralmeida@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
+⚡ Curiosidade
+
+Além de programação, gosto de aprender sobre tecnologia, resolver problemas com código e desenvolver projetos que ajudem a aprimorar minhas habilidades como desenvolvedor.
+
+⭐ Se gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios!
