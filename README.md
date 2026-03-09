@@ -1,7 +1,3 @@
- Anderson, vou montar um README de perfil completo estilo profissional para seu perfil no GitHub. Esse tipo de README é muito usado por desenvolvedores para portfólio e recrutadores 👨‍💻🚀
-
-Você pode copiar tudo abaixo e colocar no README do seu perfil.
-
 👨‍💻 Anderson Barbosa
 
 💻 Estudante de Desenvolvimento de Sistemas
