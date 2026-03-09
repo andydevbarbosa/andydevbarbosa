@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Anderson+Barbosa;Desenvolvedor+Front-End;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+GitHub)
+
 👨‍💻 Anderson Barbosa
 
 💻 Estudante de Desenvolvimento de Sistemas
