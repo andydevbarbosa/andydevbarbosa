@@ -7,7 +7,7 @@ Atualmente focado em Front-End Development, criando projetos utilizando HTML, CS
 
 🚀 Tecnologias e Ferramentas
 <p align="left"> <img src="https://skillicons.dev/icons?i=html" height="40"/> <img src="https://skillicons.dev/icons?i=css" height="40"/> <img src="https://skillicons.dev/icons?i=javascript" height="40"/> <img src="https://skillicons.dev/icons?i=git" height="40"/> <img src="https://skillicons.dev/icons?i=github" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" height="40"/> </p>
-📊 Estatísticas do GitHub
+
 
 🚀 Projetos em Destaque
 
@@ -42,7 +42,7 @@ Meu objetivo é evoluir como Desenvolvedor Web, adquirindo experiência em proje
 Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades em programação.
 
 📫 Contato
-<p align="left"> <a href="https://www.linkedin.com/in/anderson-barbosa-almeida-450198167/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:andbaralmeida@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/anderson-barbosa-almeida-450198167/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:andbaralmeida@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 ⚡ Curiosidade
 
 Além de programação, gosto de aprender sobre tecnologia, resolver problemas com código e desenvolver projetos que ajudem a aprimorar minhas habilidades como desenvolvedor.
