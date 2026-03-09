@@ -25,6 +25,12 @@ Aplicação para gerenciamento de tarefas com manipulação de DOM em JavaScript
 🔎 Pokedex
 Aplicação que consome API de Pokémon e exibe informações dos personagens.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andydevbarbosa&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andydevbarbosa&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=andydevbarbosa&theme=tokyonight)
+
 📚 Atualmente estudando
 
 JavaScript avançado
