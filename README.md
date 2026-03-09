@@ -51,3 +51,5 @@ Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidad
 Além de programação, gosto de aprender sobre tecnologia, resolver problemas com código e desenvolver projetos que ajudem a aprimorar minhas habilidades como desenvolvedor.
 
 ⭐ Se gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios!
+
+![snake](https://raw.githubusercontent.com/andydevbarbosa/andydevbarbosa/output/github-contribution-grid-snake.svg)
