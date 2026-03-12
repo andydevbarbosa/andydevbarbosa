@@ -67,11 +67,8 @@ Aplicação consumindo **API Pokémon**
 # 🐍 Contribuições
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/andydevbarbosa/andydevbarbosa/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://github.com/andydevbarbosa/andydevbarbosa/blob/output/github-contribution-grid-snake.svg">
 </p>
-
 ---
 
 # 📫 Contato
